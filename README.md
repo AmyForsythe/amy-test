@@ -2,4 +2,4 @@
 
 Amy was here
 
-Always pull (before working on doc), commit, push
+Always pull (before working on doc), commit, push . 
